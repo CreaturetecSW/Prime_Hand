@@ -516,9 +516,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000111 -0.08859900119572921 -0.0003395" rpy="0 0 0" />
-      <mass value="1.8" />
-      <inertia ixx="0.0036193407995140712" ixy="1.9955985896340777e-06" ixz="0" iyy="0.0014001618669688" iyz="-5.487896121493701e-05" izz="0.004340136101811691" />
+      <origin xyz="4.315380808e-05 -0.08952207833 -0.001328583226" rpy="0 0 0" />
+      <mass value="1.745199243" />
+      <inertia ixx="0.004430579601" ixy="-2.552028876e-06" ixz="-2.144457616e-06" iyy="0.001517871096" iyz="4.179093582e-06" izz="0.00496440635" />
     </inertial>
   </link>
   <link name="WRIST-PALM-L">
@@ -538,9 +538,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0000001 0.0098109 -0.0002551" rpy="0 0 0" />
-      <mass value="0.0356302" />
-      <inertia ixx="0.0000063" ixy="0" ixz="0" iyy="0.0000075" iyz="0" izz="0.0000061" />
+      <origin xyz="6.05955528e-05 0.01398147158 0.0001546367901" rpy="0 0 0" />
+      <mass value="0.071722047" />
+      <inertia ixx="1.414175128e-05" ixy="-2.107257087e-07" ixz="-8.148901335e-08" iyy="1.278879391e-05" iyz="2.792366701e-07" izz="1.66444534e-05" />
     </inertial>
   </link>
   <link name="PALM-L">
@@ -560,9 +560,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0122781 0.038595 0.0020082" rpy="0 0 0" />
-      <mass value="0.1364434" />
-      <inertia ixx="0.0000619" ixy="-0.0000115" ixz="-0.0000014" iyy="0.0000437" iyz="-0.0000038" izz="0.0000993" />
+      <origin xyz="0.01844967824 0.0401474662 0.006904116537" rpy="0 0 0" />
+      <mass value="0.087696684" />
+      <inertia ixx="5.686896446e-05" ixy="-9.973280648e-07" ixz="-1.119406009e-06" iyy="4.114189031e-05" iyz="-3.390013057e-06" izz="8.709037601e-05" />
     </inertial>
   </link>
   <link name="F1-L-MCP2">
@@ -582,9 +582,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0051493 0.0066497 0.003465" rpy="0 0 0" />
-      <mass value="0.0034154" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-0.001972790605 0.00395443141 0.002059654398" rpy="0 0 0" />
+      <mass value="0.007205077" />
+      <inertia ixx="3.860459423e-07" ixy="1.147074836e-07" ixz="6.896506239e-08" iyy="3.509770608e-07" iyz="-8.435854901e-08" izz="4.772787676e-07" />
     </inertial>
   </link>
   <link name="F1-L-MCP1">
@@ -604,9 +604,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0062613 0.0157265 -0.0117765" rpy="0 0 0" />
-      <mass value="0.0229565" />
-      <inertia ixx="0.0000024" ixy="0" ixz="0" iyy="0.000002" iyz="0.0000008" izz="0.0000021" />
+      <origin xyz="0.00640939601 0.01681295186 -0.008833838171" rpy="0 0 0" />
+      <mass value="0.009181751" />
+      <inertia ixx="1.713813863e-06" ixy="2.14058558e-08" ixz="2.508724166e-08" iyy="1.448171584e-06" iyz="5.176180859e-07" izz="1.502314933e-06" />
     </inertial>
   </link>
   <link name="F1-L-PIP">
@@ -626,9 +626,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0041998 0.0108245 -0.0102906" rpy="0 0 0" />
-      <mass value="0.010446" />
-      <inertia ixx="0.0000007" ixy="0" ixz="0" iyy="0.0000006" iyz="0.0000002" izz="0.0000007" />
+      <origin xyz="0.004289160148 0.01009934955 -0.008136717293" rpy="0 0 0" />
+      <mass value="0.013692546" />
+      <inertia ixx="1.785242673e-06" ixy="1.5401103e-09" ixz="3.248106275e-09" iyy="1.272362004e-06" iyz="5.55884982e-07" izz="1.401924516e-06" />
     </inertial>
   </link>
   <link name="F1-L-DIP">
@@ -648,9 +648,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0041998 0.0088881 -0.0097563" rpy="0 0 0" />
-      <mass value="0.0076488" />
-      <inertia ixx="0.0000004" ixy="0" ixz="0" iyy="0.0000004" iyz="0.0000001" izz="0.0000004" />
+      <origin xyz="0.004143219059 0.006518435841 -0.007937558736" rpy="0 0 0" />
+      <mass value="0.005955767" />
+      <inertia ixx="5.850083701e-07" ixy="1.027292113e-08" ixz="-1.170473898e-08" iyy="4.679960154e-07" iyz="1.940562834e-07" izz="3.618039806e-07" />
     </inertial>
   </link>
   <link name="F2-L-MCP2">
@@ -670,9 +670,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0 0.0032303 0.0002549" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="0.0001535223411 0.003892242149 0.0007003380523" rpy="0 0 0" />
+      <mass value="0.004838976" />
+      <inertia ixx="2.439195161e-07" ixy="-4.881262145e-09" ixz="5.257533261e-10" iyy="1.12187321e-07" iyz="-8.363599067e-09" izz="2.324335682e-07" />
     </inertial>
   </link>
   <link name="F2-L-MCP1">
@@ -692,9 +692,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0000009 0.0177238 0.0007805" rpy="0 0 0" />
-      <mass value="0.0145312" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="-0.0000001" izz="0.0000024" />
+      <origin xyz="-0.0002623498072 0.01758606449 0.001449748025" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.743665106e-06" ixy="1.418574213e-08" ixz="3.051962422e-09" iyy="5.623250255e-07" iyz="-1.073037789e-07" izz="2.756300862e-06" />
     </inertial>
   </link>
   <link name="F2-L-PIP">
@@ -714,9 +714,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000006 0.0111296 -0.000548" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="0.0001274861245 0.01031336584 0.001194777071" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.505193344e-07" ixy="5.869664269e-09" ixz="3.879520606e-09" iyy="1.644325713e-07" iyz="-4.927921576e-09" izz="5.123666297e-07" />
     </inertial>
   </link>
   <link name="F2-L-DIP">
@@ -736,9 +736,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000009 0.0103728 -0.0010699" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-7.295234665e-05 0.01019990454 0.0008805458952" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.054956476e-07" ixy="7.07308888e-09" ixz="2.111535736e-10" iyy="1.000394611e-07" iyz="1.052554212e-08" izz="2.529027419e-07" />
     </inertial>
   </link>
   <link name="F3-L-MCP2">
@@ -758,9 +758,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000008 0.0032575 0.0002549" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="0.0001555770169 0.003915360514 0.0007003769487" rpy="0 0 0" />
+      <mass value="0.004838976" />
+      <inertia ixx="2.439117953e-07" ixy="-4.984379311e-09" ixz="5.191897031e-10" iyy="1.121950471e-07" iyz="-8.36402909e-09" izz="2.324335628e-07" />
     </inertial>
   </link>
   <link name="F3-L-MCP1">
@@ -780,9 +780,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0000232 0.017751 0.0007805" rpy="0 0 0" />
-      <mass value="0.0145312" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="-0.0000001" izz="0.0000024" />
+      <origin xyz="-0.0002691643906 0.01760930744 0.001449707838" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.743665118e-06" ixy="1.418553803e-08" ixz="3.051987443e-09" iyy="5.623250255e-07" iyz="-1.073038058e-07" izz="2.75630085e-06" />
     </inertial>
   </link>
   <link name="F3-L-PIP">
@@ -802,9 +802,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000512 0.0111568 -0.000548" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="0.0001344543039 0.01033660686 0.001194817344" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.505195216e-07" ixy="5.865451475e-09" ixz="3.879565789e-09" iyy="1.644323988e-07" iyz="-4.927989741e-09" izz="5.12366615e-07" />
     </inertial>
   </link>
   <link name="F3-L-DIP">
@@ -824,9 +824,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000688 0.0104 -0.001145" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-6.564849685e-05 0.0102231485 0.0008805865495" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.054958562e-07" ixy="7.07155944e-09" ixz="2.113983578e-10" iyy="1.000392533e-07" iyz="1.052552556e-08" izz="2.529027411e-07" />
     </inertial>
   </link>
   <link name="F4-L-MCP2">
@@ -846,9 +846,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0 0.0032303 0.0002549" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="0.0001534010628 0.003883295035 0.0007003372784" rpy="0 0 0" />
+      <mass value="0.004838976" />
+      <inertia ixx="2.439194488e-07" ixy="-4.882255595e-09" ixz="5.256485934e-10" iyy="1.121873923e-07" iyz="-8.363584339e-09" izz="2.324335642e-07" />
     </inertial>
   </link>
   <link name="F4-L-MCP1">
@@ -868,9 +868,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0000009 0.0177238 0.0007805" rpy="0 0 0" />
-      <mass value="0.0145312" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="-0.0000001" izz="0.0000024" />
+      <origin xyz="-0.0002622677906 0.01757711955 0.001449749246" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.74366513e-06" ixy="1.418533405e-08" ixz="3.052010472e-09" iyy="5.623250255e-07" iyz="-1.073038328e-07" izz="2.756300838e-06" />
     </inertial>
   </link>
   <link name="F4-L-PIP">
@@ -890,9 +890,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000006 0.0111296 -0.000548" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="0.0001274079755 0.01030382583 0.001200593144" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.505193639e-07" ixy="5.867455108e-09" ixz="3.883067381e-09" iyy="1.644382432e-07" iyz="-5.12426268e-09" izz="5.123609282e-07" />
     </inertial>
   </link>
   <link name="F4-L-DIP">
@@ -912,9 +912,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0000543 0.0105111 -0.0011579" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-1.783166699e-05 0.01032853819 0.0008863765204" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.054956492e-07" ixy="7.073008464e-09" ixz="2.153250431e-10" iyy="1.000276317e-07" iyz="1.043925533e-08" izz="2.529145697e-07" />
     </inertial>
   </link>
   <link name="F5-L-MCP2">
@@ -934,9 +934,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0 0.0032303 0.0002549" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="0.000255273339 0.004395342918 0.0008495086461" rpy="0 0 0" />
+      <mass value="0.004376921" />
+      <inertia ixx="2.243180708e-07" ixy="-2.482455075e-09" ixz="1.260945621e-09" iyy="9.250070014e-08" iyz="-4.540145209e-09" izz="2.064572252e-07" />
     </inertial>
   </link>
   <link name="F5-L-MCP1">
@@ -956,9 +956,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0000009 0.0177238 0.0007805" rpy="0 0 0" />
-      <mass value="0.0145312" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="-0.0000001" izz="0.0000024" />
+      <origin xyz="-0.0002625836843 0.01757524498 0.001449867632" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.743665143e-06" ixy="1.418509728e-08" ixz="3.052038354e-09" iyy="5.623250255e-07" iyz="-1.073038641e-07" izz="2.756300825e-06" />
     </inertial>
   </link>
   <link name="F5-L-PIP">
@@ -978,9 +978,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000006 0.0111296 -0.000548" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="0.0001277260649 0.01030254633 0.001194658355" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.50519381e-07" ixy="5.869634645e-09" ixz="3.879892269e-09" iyy="1.644325713e-07" iyz="-4.92795686e-09" izz="5.123665831e-07" />
     </inertial>
   </link>
   <link name="F5-L-DIP">
@@ -1000,9 +1000,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0000014 0.0103743 -0.0010705" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-7.271429374e-05 0.01019508502 0.0008804283843" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.054956501e-07" ixy="7.073152128e-09" ixz="2.114384615e-10" iyy="1.000394611e-07" iyz="1.052549961e-08" izz="2.529027394e-07" />
     </inertial>
   </link>
   <joint name="base_link_to_HOUSING-L" type="fixed">
@@ -1209,9 +1209,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.1837865 -0.08900509987209954 -0.0016055" rpy="0 0 0" />
-      <mass value="1.8" />
-      <inertia ixx="0.0036193407550351563" ixy="1.995598580017417e-06" ixz="0" iyy="0.0014001618669688" iyz="-5.487896095047884e-05" izz="0.004340136057332777" />
+      <origin xyz="0.1836303369 -0.0899138287 -0.002604270986" rpy="0 0 0" />
+      <mass value="1.745199243" />
+      <inertia ixx="0.004430614104" ixy="4.907686339e-06" ixz="5.10748681e-06" iyy="0.001517876576" iyz="3.917504444e-06" izz="0.004964366636" />
     </inertial>
   </link>
   <link name="WRIST-PALM-R">
@@ -1231,9 +1231,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0000026 0.0098149 -0.0002516" rpy="0 0 0" />
-      <mass value="0.0356289" />
-      <inertia ixx="0.0000063" ixy="0" ixz="0" iyy="0.0000075" iyz="0" izz="0.0000061" />
+      <origin xyz="-6.233219793e-05 0.01398625244 0.0001619501007" rpy="0 0 0" />
+      <mass value="0.071722047" />
+      <inertia ixx="1.414179217e-05" ixy="2.107702183e-07" ixz="8.207363996e-08" iyy="1.278873984e-05" iyz="2.788376076e-07" izz="1.664446837e-05" />
     </inertial>
   </link>
   <link name="PALM-R">
@@ -1253,9 +1253,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0146895 0.0384383 -0.0020085" rpy="0 0 0" />
-      <mass value="0.1364399" />
-      <inertia ixx="0.0000619" ixy="-0.0000115" ixz="0.0000014" iyy="0.0000437" iyz="0.0000038" izz="0.0000993" />
+      <origin xyz="0.02086494894 0.0399913123 -0.006903388901" rpy="0 0 0" />
+      <mass value="0.087696684" />
+      <inertia ixx="5.686868184e-05" ixy="-9.982267092e-07" ixz="1.116801035e-06" iyy="4.114193604e-05" iyz="3.389685257e-06" izz="8.709060743e-05" />
     </inertial>
   </link>
   <link name="F1-R-MCP2">
@@ -1275,9 +1275,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0051493 0.0066497 0.003465" rpy="0 0 0" />
-      <mass value="0.0034154" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="0.001941692343 0.003958538757 0.002077324698" rpy="0 0 0" />
+      <mass value="0.007205077" />
+      <inertia ixx="3.878550907e-07" ixy="-1.14619599e-07" ixz="-6.803506906e-08" iyy="3.486273415e-07" iyz="-8.442550742e-08" izz="4.778192273e-07" />
     </inertial>
   </link>
   <link name="F1-R-MCP1">
@@ -1297,9 +1297,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0117416 0.0168702 0.0016672" rpy="0 0 0" />
-      <mass value="0.022955" />
-      <inertia ixx="0.0000022" ixy="-0.0000007" ixz="-0.0000003" iyy="0.0000021" iyz="-0.0000003" izz="0.0000023" />
+      <origin xyz="0.008811140725 0.01794787938 0.001101347782" rpy="0 0 0" />
+      <mass value="0.009181751" />
+      <inertia ixx="1.577189824e-06" ixy="-4.622949941e-07" ixz="-1.552406328e-07" iyy="1.482601689e-06" iyz="-2.16361261e-07" izz="1.604508976e-06" />
     </inertial>
   </link>
   <link name="F1-R-PIP">
@@ -1319,9 +1319,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0101665 0.011579 0.0018089" rpy="0 0 0" />
-      <mass value="0.010446" />
-      <inertia ixx="0.0000007" ixy="-0.0000002" ixz="-0.0000001" iyy="0.0000006" iyz="-0.0000001" izz="0.0000007" />
+      <origin xyz="0.008164031186 0.0110440667 0.001010709647" rpy="0 0 0" />
+      <mass value="0.013692546" />
+      <inertia ixx="1.503927124e-06" ixy="-4.779207149e-07" ixz="-2.219621632e-07" iyy="1.315428755e-06" iyz="-2.754649607e-07" izz="1.640173328e-06" />
     </inertial>
   </link>
   <link name="F1-R-DIP">
@@ -1341,9 +1341,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.009624 0.0095618 0.0010277" rpy="0 0 0" />
-      <mass value="0.0078009" />
-      <inertia ixx="0.0000004" ixy="-0.0000001" ixz="0" iyy="0.0000004" iyz="0" izz="0.0000004" />
+      <origin xyz="0.008253771573 0.007476975426 5.540125179e-05" rpy="0 0 0" />
+      <mass value="0.005955767" />
+      <inertia ixx="4.090894314e-07" ixy="-1.652535322e-07" ixz="-1.107379879e-07" iyy="4.841400346e-07" iyz="-8.667291771e-08" izz="5.215788731e-07" />
     </inertial>
   </link>
   <link name="F2-R-MCP2">
@@ -1363,9 +1363,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0 0.0032303 -0.0059951" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="-0.0001535140467 0.003892239292 -0.005549652589" rpy="0 0 0" />
+      <mass value="0.004838976" />
+      <inertia ixx="2.439194862e-07" ixy="4.881289722e-09" ixz="-5.25744562e-10" iyy="1.121873046e-07" iyz="-8.363562956e-09" izz="2.324335723e-07" />
     </inertial>
   </link>
   <link name="F2-R-MCP1">
@@ -1385,9 +1385,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0028991 0.0177237 -0.0006809" rpy="0 0 0" />
-      <mass value="0.0145304" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="0.0000001" izz="0.0000024" />
+      <origin xyz="-0.0031650701 0.01758760478 -0.00135363258" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.743659839e-06" ixy="1.418078048e-08" ixz="-3.023148326e-09" iyy="5.622042636e-07" iyz="1.060633762e-07" izz="2.756427114e-06" />
     </inertial>
   </link>
   <link name="F2-R-PIP">
@@ -1407,9 +1407,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0028992 0.0111292 -0.000448" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="-0.003027716028 0.01031380267 0.001297612203" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.505156459e-07" ixy="-5.866132667e-09" ixz="-3.847482801e-09" iyy="1.64431856e-07" iyz="-4.908726784e-09" izz="5.123710579e-07" />
     </inertial>
   </link>
   <link name="F2-R-DIP">
@@ -1429,9 +1429,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0054993 0.0103728 -0.0010699" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-0.005428951475 0.01019807872 0.0008795307732" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.054954986e-07" ixy="-7.064537939e-09" ixz="-1.776664529e-10" iyy="1.000371333e-07" iyz="1.051462606e-08" izz="2.529052136e-07" />
     </inertial>
   </link>
   <link name="F3-R-MCP2">
@@ -1451,9 +1451,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0 0.0032303 -0.0059951" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="-0.0001563497654 0.003888100918 -0.00554961409" rpy="0 0 0" />
+      <mass value="0.004838976" />
+      <inertia ixx="2.439117677e-07" ixy="4.984375238e-09" ixz="-5.191835279e-10" iyy="1.121950415e-07" iyz="-8.363986944e-09" izz="2.324335388e-07" />
     </inertial>
   </link>
   <link name="F3-R-MCP1">
@@ -1473,9 +1473,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0028991 0.0177237 -0.0006809" rpy="0 0 0" />
-      <mass value="0.0145304" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="0.0000001" izz="0.0000024" />
+      <origin xyz="-0.003192497318 0.01758386555 -0.001354454412" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.743638894e-06" ixy="1.587624631e-08" ixz="-3.115030419e-09" iyy="5.622263461e-07" iyz="1.06047148e-07" izz="2.756425675e-06" />
     </inertial>
   </link>
   <link name="F3-R-PIP">
@@ -1495,9 +1495,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0060992 0.0111292 -0.000448" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="-0.00628463353 0.01030978477 0.001297682347" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.505248e-07" ixy="-5.637880592e-09" ixz="-3.84363076e-09" iyy="1.644227101e-07" iyz="-4.912626598e-09" izz="5.123710285e-07" />
     </inertial>
   </link>
   <link name="F3-R-DIP">
@@ -1517,9 +1517,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0054993 0.0103728 -0.001045" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-0.00550279062 0.01019462978 0.0009787825647" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.055067657e-07" ixy="-6.980325798e-09" ixz="-1.890877537e-10" iyy="1.000237929e-07" iyz="1.049909615e-08" izz="2.529072858e-07" />
     </inertial>
   </link>
   <link name="F4-R-MCP2">
@@ -1539,9 +1539,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0 0.0032303 -0.0059951" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="-0.0001533901669 0.003883292238 -0.005549653816" rpy="0 0 0" />
+      <mass value="0.004838976" />
+      <inertia ixx="2.439194226e-07" ixy="4.88223224e-09" ixz="-5.256437352e-10" iyy="1.121873721e-07" iyz="-8.363548243e-09" izz="2.324335683e-07" />
     </inertial>
   </link>
   <link name="F4-R-MCP1">
@@ -1561,9 +1561,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0028991 0.0177237 -0.0006809" rpy="0 0 0" />
-      <mass value="0.0145304" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="0.0000001" izz="0.0000024" />
+      <origin xyz="-0.003164993643 0.01757865982 -0.001353638874" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.743659534e-06" ixy="1.418044241e-08" ixz="-3.023220545e-09" iyy="5.622042644e-07" iyz="1.060634299e-07" izz="2.756427092e-06" />
     </inertial>
   </link>
   <link name="F4-R-PIP">
@@ -1583,9 +1583,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0060992 0.0111292 -0.000448" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="-0.006227626446 0.01030426294 0.001303428698" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.505156719e-07" ixy="-5.864025777e-09" ixz="-3.85102942e-09" iyy="1.644375097e-07" iyz="-5.105068472e-09" izz="5.123653782e-07" />
     </inertial>
   </link>
   <link name="F4-R-DIP">
@@ -1605,9 +1605,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0054993 0.0103728 -0.001045" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-0.00542762542 0.01019137048 0.0009981764138" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.054923686e-07" ixy="-7.093767609e-09" ixz="-2.009642394e-10" iyy="1.000285866e-07" iyz="1.042502743e-08" izz="2.529168811e-07" />
     </inertial>
   </link>
   <link name="F5-R-MCP2">
@@ -1627,9 +1627,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0 0.0032303 -0.0059951" rpy="0 0 0" />
-      <mass value="0.0025219" />
-      <inertia ixx="0.0000002" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000001" />
+      <origin xyz="-0.000255263446 0.004395338937 -0.005400482672" rpy="0 0 0" />
+      <mass value="0.004376921" />
+      <inertia ixx="2.243180456e-07" ixy="2.482465614e-09" ixz="-1.260933151e-09" iyy="9.250069803e-08" iyz="-4.540115888e-09" izz="2.06457226e-07" />
     </inertial>
   </link>
   <link name="F5-R-MCP1">
@@ -1649,9 +1649,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="0.0029009 0.0177237 -0.0006809" rpy="0 0 0" />
-      <mass value="0.0145304" />
-      <inertia ixx="0.0000022" ixy="0" ixz="0" iyy="0.0000005" iyz="0.0000001" izz="0.0000024" />
+      <origin xyz="0.002634696856 0.01757679091 -0.001353757804" rpy="0 0 0" />
+      <mass value="0.011993918" />
+      <inertia ixx="2.743659547e-06" ixy="1.41802389e-08" ixz="-3.023229291e-09" iyy="5.622042669e-07" iyz="1.060634717e-07" izz="2.756426747e-06" />
     </inertial>
   </link>
   <link name="F5-R-PIP">
@@ -1671,9 +1671,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0060992 0.0111292 -0.000448" rpy="0 0 0" />
-      <mass value="0.0050184" />
-      <inertia ixx="0.0000003" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000003" />
+      <origin xyz="-0.006227940129 0.01030298497 0.001297494117" rpy="0 0 0" />
+      <mass value="0.006099939" />
+      <inertia ixx="4.505156936e-07" ixy="-5.866063091e-09" ixz="-3.84785054e-09" iyy="1.644318545e-07" iyz="-4.908766435e-09" izz="5.123710117e-07" />
     </inertial>
   </link>
   <link name="F5-R-DIP">
@@ -1693,9 +1693,9 @@
       </geometry>
     </collision>
     <inertial>
-      <origin xyz="-0.0055016 0.0103744 -0.0010705" rpy="0 0 0" />
-      <mass value="0.0036931" />
-      <inertia ixx="0.0000001" ixy="0" ixz="0" iyy="0.0000001" iyz="0" izz="0.0000002" />
+      <origin xyz="-0.00542678256 0.01019488159 0.0008807132186" rpy="0 0 0" />
+      <mass value="0.004244402" />
+      <inertia ixx="2.054993491e-07" ixy="-7.039832979e-09" ixz="-1.942368276e-10" iyy="1.000360305e-07" iyz="1.053160933e-08" izz="2.529024839e-07" />
     </inertial>
   </link>
   <joint name="base_link_to_HOUSING-R" type="fixed">
